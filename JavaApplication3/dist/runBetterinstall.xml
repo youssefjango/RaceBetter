@@ -2,8 +2,8 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>E:\Vanier Related\Vanier College Courses F23\Computer Science\JavaApplication3\JavaApplication3\dist\JavaApplication3.jar</jar>
-  <outfile>E:\Vanier Related\Vanier College Courses F23\Computer Science\JavaApplication3\JavaApplication3\dist\RaceBetter.exe</outfile>
+  <jar>C:\Users\YOUSSEF\Desktop\JavaApplication3\JavaApplication3\dist\JavaApplication3.jar</jar>
+  <outfile>C:\Users\YOUSSEF\Desktop\JavaApplication3\raceBetter.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
