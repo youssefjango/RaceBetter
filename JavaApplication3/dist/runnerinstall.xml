@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>E:\Vanier Related\Vanier College Courses F23\Computer Science\JavaApplication3\JavaApplication3\dist\JavaApplication3.jar</jar>
+  <outfile>E:\Vanier Related\Vanier College Courses F23\Computer Science\JavaApplication3\JavaApplication3\dist\RaceBetter.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <classPath>
+    <mainClass>NewFXMain</mainClass>
+    <cp>C:\Program Files\NetBeans-19\javafx-sdk-20.0.2\lib\javafx.base.jar</cp>
+    <cp>C:\Program Files\NetBeans-19\javafx-sdk-20.0.2\lib\javafx.controls.jar</cp>
+    <cp>C:\Program Files\NetBeans-19\javafx-sdk-20.0.2\lib\javafx.fxml.jar</cp>
+    <cp>C:\Program Files\NetBeans-19\javafx-sdk-20.0.2\lib\javafx.graphics.jar</cp>
+    <cp>C:\Program Files\NetBeans-19\javafx-sdk-20.0.2\lib\javafx.media.jar</cp>
+    <cp>C:\Program Files\NetBeans-19\javafx-sdk-20.0.2\lib\javafx.swing.jar</cp>
+    <cp>C:\Program Files\NetBeans-19\javafx-sdk-20.0.2\lib\javafx.web.jar</cp>
+    <cp>C:\Program Files\NetBeans-19\javafx-sdk-20.0.2\lib\javafx-swt.jar</cp>
+  </classPath>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>20.0.0</minVersion>
+    <maxVersion></maxVersion>
+    <opt>--module-path &quot;C:\Program Files\NetBeans-19\javafx-sdk-20.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.media</opt>
+  </jre>
+</launch4jConfig>
